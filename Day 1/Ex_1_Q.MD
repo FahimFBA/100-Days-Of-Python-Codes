@@ -2,8 +2,6 @@
 
 # Instructions
 
-Write a program in main.py that prints the same notes from the previous lesson using what you have learnt about the Python print function. 
-
 **Warning:** The output in your program should match the example output shown below exactly, character for character, even spaces and symbols should be identical, otherwise the tests won't pass.
 
 # Example Output
@@ -25,14 +23,8 @@ print('what to print')
 e.g. When you hit **run**, this is what should happen:
 ![](https://cdn.fs.teachablecdn.com/q89uzhvRTf6CZHLtxLm6)
  
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-1-1-test-your-code](https://repl.it/@appbrewery/day-1-1-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
+# If you want to get the solution, then follow the solution, but try first.
 
 # Solution
 
-[https://repl.it/@appbrewery/day-1-1-solution](https://repl.it/@appbrewery/day-1-1-solution)
+[Solution of this problem](Ans_Ex_1.py)
