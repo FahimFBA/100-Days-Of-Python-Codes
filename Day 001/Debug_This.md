@@ -27,4 +27,4 @@ e.g. When you hit **run**, there should be no errors and this is what should hap
 
 # Solution
 
-[Solution of this debugging](/Debig.py)
+[Solution of this debugging](Debug.py)
