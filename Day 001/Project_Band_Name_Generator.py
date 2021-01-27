@@ -1,4 +1,4 @@
-#1. Create a greeting for your program.
+#1. Creating a greeting for your program.
 
 print ("Hey! Welcome to the band name generator! This project is made by FBA. You can get all the projects of him in github.com/FahimFBA")
 
@@ -15,5 +15,4 @@ pet = input("Enter the name of your pet: \n")
 print("The band name generator has been prepared the perfect band name for you!\n")
 print("Your band name could be " + city + " " + pet)
 
-#5. Make sure the input cursor shows on a new line, see the example at:
-#   https://band-name-generator-end.appbrewery.repl.run/
+#5. Make sure the input cursor shows on a new line
