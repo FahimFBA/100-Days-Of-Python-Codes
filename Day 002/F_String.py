@@ -6,4 +6,4 @@ isWinning = True
 
 # f-string automatically converts all other data types into string within curly braces {}  
 
-print(f"Your score is {score}, your height is {height}, your are winning is {isWinning}")
+print(f"Your score is {score}, your height is {height}, your are winning and it is {isWinning}")
